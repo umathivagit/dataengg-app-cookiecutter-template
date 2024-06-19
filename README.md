@@ -1,7 +1,7 @@
-# dataengg-app-cookiecutter-template
+# Introduction
 This contains my recommended project directory structure for data engineering development using open source technologies like Python , Apache Spark , Apache Flink , Amazon S3 , Dell ECS, MySql , Mongodb , Apache Airflow , Apache Kafka
 
-# Cookiecutter Data Engineering
+# Data Engineering Project Template - Cookiecutter Data Engineering
 A logical, flexible, and reasonably standardized project structure for doing data engineering and datascience development. Please feel free to write to me incase of any queries gmail@udayakumar.co.in or hellouday@udayakumar.co.in
 
 Setting up a well-structured project for a data engineering endeavor involving technologies like Python, Apache Spark, Apache Flink, Amazon S3, Dell ECS, MySQL, MongoDB, Apache Airflow, and Apache Kafka involves several considerations to ensure scalability, maintainability, and ease of development. Here’s a recommended project structure:
@@ -26,7 +26,7 @@ Setting up a well-structured project for a data engineering endeavor involving t
     kafka/: Kafka producer and consumer configurations.
     aws/: AWS S3 credentials and configuration.
     
-#4. Data Storage
+# 4. Data Storage
     data/: Directory for storing raw and processed data.
     raw/: Raw data files.
     processed/: Processed data files.
