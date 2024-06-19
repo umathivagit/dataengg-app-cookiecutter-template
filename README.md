@@ -52,17 +52,17 @@ Setting up a well-structured project for a data engineering endeavor involving t
     .git/: Git repository for version control.
     
 ## Notes:
-### Modular Design: Each component (ETL, processing, ingestion) should be modular and independently testable.
-
-### Configuration Management: Centralize all configuration files to maintain consistency across environments.
-
-### Documentation: Include comprehensive README.md and inline documentation to facilitate understanding and maintenance.
-
-### Testing: Implement unit tests in the tests/ directory to ensure the reliability of your code.
-
-### Logging: Configure logging appropriately to track errors and monitor job execution.
-
-### Security: Handle credentials and sensitive information securely, using environment variables or secure vaults.
+    Modular Design: Each component (ETL, processing, ingestion) should be modular and independently testable.
+    
+    Configuration Management: Centralize all configuration files to maintain consistency across environments.
+    
+    Documentation: Include comprehensive README.md and inline documentation to facilitate understanding and maintenance.
+    
+    Testing: Implement unit tests in the tests/ directory to ensure the reliability of your code.
+    
+    Logging: Configure logging appropriately to track errors and monitor job execution.
+    
+    Security: Handle credentials and sensitive information securely, using environment variables or secure vaults.
 
 This structure provides a foundation for developing, testing, and deploying data engineering projects using a variety of technologies, ensuring flexibility and scalability as your project grows. Adjust and expand as necessary based on specific project requirements and team preferences.
 
