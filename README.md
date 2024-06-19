@@ -2,9 +2,9 @@
 This contains my recommended project directory structure for data engineering development using open source technologies like Python , Apache Spark , Apache Flink , Amazon S3 , Dell ECS, MySql , Mongodb , Apache Airflow , Apache Kafka
 
 # Cookiecutter Data Engineering
-A logical, flexible, and reasonably standardized project structure for doing data engineering and datascience development. Please feel free to write to me incase of any queries gmail@udayakumar.co.in
+A logical, flexible, and reasonably standardized project structure for doing data engineering and datascience development. Please feel free to write to me incase of any queries ## gmail@udayakumar.co.in
 
-# Setting up a well-structured project for a data engineering endeavor involving technologies like Python, Apache Spark, Apache Flink, Amazon S3, Dell ECS, MySQL, MongoDB, Apache Airflow, and Apache Kafka involves several considerations to ensure scalability, maintainability, and ease of development. Here’s a recommended project structure:
+Setting up a well-structured project for a data engineering endeavor involving technologies like Python, Apache Spark, Apache Flink, Amazon S3, Dell ECS, MySQL, MongoDB, Apache Airflow, and Apache Kafka involves several considerations to ensure scalability, maintainability, and ease of development. Here’s a recommended project structure:
 
 # 1. Overall Structure
     README.md: Project overview, setup instructions, dependencies, and basic usage.
@@ -64,7 +64,7 @@ A logical, flexible, and reasonably standardized project structure for doing dat
 
 ### Security: Handle credentials and sensitive information securely, using environment variables or secure vaults.
 
-#### This structure provides a foundation for developing, testing, and deploying data engineering projects using a variety of technologies, ensuring flexibility and scalability as your project grows. Adjust and expand as necessary based on specific project requirements and team preferences.
+This structure provides a foundation for developing, testing, and deploying data engineering projects using a variety of technologies, ensuring flexibility and scalability as your project grows. Adjust and expand as necessary based on specific project requirements and team preferences.
 
 
 
