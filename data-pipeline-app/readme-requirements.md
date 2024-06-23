@@ -19,8 +19,7 @@ requests==2.28.1  # For making HTTP requests
 python-dateutil==2.8.2  # For parsing dates
 pytz==2023.3  # For timezone handling
 
-##Explanation of the Dependencies
-
+#Explanation of the Dependencies
 PySpark Dependencies:
 pyspark: Main library for working with Apache Spark in Python.
 
